@@ -7,17 +7,18 @@
     "url": "https://github.com/your/repository.git"
   },
   "dependencies": {
-    "body-parser": "^1.13.1",
-    "express": "^4.13.0",
-    "pivotaljs": "^1.0.3",
     "babel-core": "^5.3.1",
     "babel-eslint": "^3.1.1",
     "babelify": "^6.1.0",
+    "body-parser": "^1.13.1",
+    "dotenv": "^2.0.0",
+    "express": "^4.13.0",
     "gulp": "^3.8.11",
     "gulp-babel": "^5.1.0",
     "gulp-browserify": "^0.5.1",
     "gulp-clean": "^0.3.1",
-    "gulp-sourcemaps": "^1.5.2"
+    "gulp-sourcemaps": "^1.5.2",
+    "pivotaljs": "^1.0.3"
   },
   "main": "dist/index.js",
   "devDependencies": {

@@ -1,5 +1,7 @@
 'use strict';
 
+require('dotenv').config();
+
 import express from 'express';
 import bodyParser from 'body-parser';
 import Pivotal from 'pivotaljs';
